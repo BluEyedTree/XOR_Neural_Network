@@ -6,7 +6,6 @@ Each of beta values are one of the weights in the net, and the graph represents 
 
 Run XORNeuralNet.py to see the functionality. 
 
+The Final output Graph:
 
-
-
-
+![](https://github.com/BluEyedTree/XOR_Neural_Network/blob/master/FinalOutput.jpg)
